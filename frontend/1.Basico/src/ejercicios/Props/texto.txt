@@ -1,0 +1,1 @@
+Props: Crea un componente padre que pase datos a un componente hijo a través de props y muéstralos en el componente hijo.

@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "id": "f959",
+      "nombre": "Harry Potter",
+      "casa": "Gryffindor",
+      "estado": "vivo"
+    },
+    {
+      "id": "7d1b",
+      "nombre": "Hermione Granger",
+      "casa": "Gryffindor",
+      "estado": "Vivo"
+    },
+    {
+      "id": "bdff",
+      "nombre": "Draco Malfoy",
+      "casa": "Slytherin",
+      "estado": "Vivo"
+    },
+    {
+      "id": "2463",
+      "nombre": "Albus Dumbledore",
+      "casa": "Gryffindor",
+      "estado": "Muerto"
+    },
+    {
+      "id": "6046",
+      "nombre": "Severus Snape",
+      "casa": "Slytherin",
+      "estado": "Muerto"
+    }
+  ]
+}
